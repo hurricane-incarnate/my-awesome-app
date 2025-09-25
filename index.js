@@ -29,11 +29,10 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>🎉 Hello World!</h1>
-                <p>My app is now running on the web!</p>
-                <p>Welcome, Developer! 👋</p>
-                <p>📱 <strong>Install this app:</strong> On iPhone, tap Share button → "Add to Home Screen"</p>
-                <a href="/about" class="button">Learn More</a>
+                <h1>🤘 LETS ROCK THE FUCK OUT!</h1>
+                <p>SERANA finna take over the world.</p>
+                <p>YOU! I CHOOSE YOU!</p>
+                <a href="/about" class="button">LETS FUCKING GO</a>
             </div>
             <script>
                 if ('serviceWorker' in navigator) {
