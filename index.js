@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
             <meta name="apple-mobile-web-app-title" content="My App">
             <link rel="manifest" href="/manifest.json">
             <style>
-                body { font-family: Arial, sans-serif; margin: 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+                body { font-family: Arial, sans-serif; margin: 40px; background: black; color: white; }
                 .container { text-align: center; margin-top: 100px; }
                 h1 { font-size: 3em; margin-bottom: 20px; }
                 p { font-size: 1.2em; margin-bottom: 30px; }
@@ -53,7 +53,7 @@ app.get('/about', (req, res) => {
         <head>
             <title>About - My App</title>
             <style>
-                body { font-family: Arial, sans-serif; margin: 40px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; }
+                body { font-family: Arial, sans-serif; margin: 40px; background: black; color: white; }
                 .container { text-align: center; margin-top: 100px; }
                 h1 { font-size: 2.5em; margin-bottom: 20px; }
                 p { font-size: 1.1em; margin-bottom: 20px; }
