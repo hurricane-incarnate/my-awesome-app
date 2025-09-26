@@ -29,7 +29,6 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <img src="/serana-image.png" alt="SERANA" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 30px; border: 3px solid white;">
                 <h1>🤘 LETS ROCK THE FUCK OUT!</h1>
                 <p>SERANA finna take over the world.</p>
                 <p>YOU! I CHOOSE YOU!</p>
@@ -62,7 +61,9 @@ app.get('/about', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <img src="https://via.placeholder.com/400x300/333333/ffffff?text=SERANA" alt="SERANA Placeholder" style="width: 400px; height: 300px; border-radius: 15px; margin-bottom: 40px; border: 2px solid white;">
+                <h1>About SERANA</h1>
+                <p>The ultimate experience awaits.</p>
+                <p>Ready to conquer the underworld?</p>
                 <br>
                 <a href="/" class="button">← Back Home</a>
             </div>
