@@ -61,9 +61,6 @@ app.get('/about', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>📱 About My App</h1>
-                <p>This is a simple Node.js web application built with Express!</p>
-                <p>You can now see your app in a web browser instead of just the terminal.</p>
                 <a href="/" class="button">← Back Home</a>
             </div>
         </body>
