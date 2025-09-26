@@ -62,7 +62,7 @@ app.get('/about', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <img src="/serana-image.jpg" alt="SERANA and Friends" style="width: 400px; height: 300px; border-radius: 15px; margin-bottom: 40px; border: 2px solid white;">
+                <img src="https://via.placeholder.com/400x300/333333/ffffff?text=SERANA" alt="SERANA Placeholder" style="width: 400px; height: 300px; border-radius: 15px; margin-bottom: 40px; border: 2px solid white;">
                 <br>
                 <a href="/" class="button">← Back Home</a>
             </div>
