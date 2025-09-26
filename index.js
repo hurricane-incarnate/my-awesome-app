@@ -61,9 +61,7 @@ app.get('/about', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>About SERANA</h1>
-                <p>The ultimate experience awaits.</p>
-                <p>Ready to conquer the underworld?</p>
+                <img src="/serana-image.jpg" alt="SERANA" style="max-width: 90%; height: auto; border-radius: 15px; margin-bottom: 40px; border: 2px solid white;">
                 <br>
                 <a href="/" class="button">← Back Home</a>
             </div>
