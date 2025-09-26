@@ -29,6 +29,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
+                <img src="/serana-image.png" alt="SERANA" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 30px; border: 3px solid white;">
                 <h1>🤘 LETS ROCK THE FUCK OUT!</h1>
                 <p>SERANA finna take over the world.</p>
                 <p>YOU! I CHOOSE YOU!</p>
